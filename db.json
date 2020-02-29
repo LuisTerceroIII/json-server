@@ -1,0 +1,16 @@
+{
+    "contact": [
+
+        {
+            "firstName" : "Luis",
+            "lastName" : "Espinoza",
+            "phone" : "011-15-69671352",
+            "cell" : "011-15-69682431",
+            "email" :  "luis.espinoza.nav@live.com",
+            "country" : "Chile",
+            "city" : "San Bernardo",
+            "streetName" : "Artes y letras",
+            "streetNumber" : "03013"
+        }
+    ] 
+}
